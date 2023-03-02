@@ -9,7 +9,7 @@ This is a sample graphic design of ship I created this with illustrator
 ## Pictures
 
 <div style="text-align: center">
- <img src="https://github.com/MarzieMemarian/background/blob/master/scrinshot/Leaf%20a%20transparent%20page%20background.jpg?raw=true" width="200"/>
+ <img src="https://github.com/MarzieMemarian/red-rose/blob/master/screenshot/red%20rose.jpg?raw=true" width="200"/>
 
 </div>
 ## Usage
